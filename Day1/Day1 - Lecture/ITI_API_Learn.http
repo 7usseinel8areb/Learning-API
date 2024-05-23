@@ -1,0 +1,6 @@
+@ITI_API_Learn_HostAddress = http://localhost:5022
+
+GET {{ITI_API_Learn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
