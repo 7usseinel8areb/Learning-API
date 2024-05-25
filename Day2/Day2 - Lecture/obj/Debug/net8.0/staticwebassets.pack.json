@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\100DayChallenge\\ITI_API_Learn\\Day2\\Day2 - Lecture\\wwwroot\\Consumer.html",
+      "PackagePath": "staticwebassets\\Consumer.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ITI_API_Learn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ITI_API_Learn.props",
+      "PackagePath": "build\\ITI_API_Learn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ITI_API_Learn.props",
+      "PackagePath": "buildMultiTargeting\\ITI_API_Learn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ITI_API_Learn.props",
+      "PackagePath": "buildTransitive\\ITI_API_Learn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
