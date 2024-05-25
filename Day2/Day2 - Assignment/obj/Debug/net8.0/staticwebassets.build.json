@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Fd/4Nb8OgyOxNKsTtgrGQXXPzoztnX7dZj07sTUQChk=",
+  "Source": "ITI_API_Learn",
+  "BasePath": "_content/ITI_API_Learn",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ITI_API_Learn\\wwwroot",
+      "Source": "ITI_API_Learn",
+      "ContentRoot": "C:\\100DayChallenge\\ITI_API_Learn\\Day2\\Day2 - Assignment\\wwwroot\\",
+      "BasePath": "_content/ITI_API_Learn",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\100DayChallenge\\ITI_API_Learn\\Day2\\Day2 - Assignment\\wwwroot\\Consumer.html",
+      "SourceId": "ITI_API_Learn",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\100DayChallenge\\ITI_API_Learn\\Day2\\Day2 - Assignment\\wwwroot\\",
+      "BasePath": "_content/ITI_API_Learn",
+      "RelativePath": "Consumer.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Consumer.html"
+    }
+  ]
+}
